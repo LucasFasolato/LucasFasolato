@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi there 👋 I'm Lucas Fasolato
 
-<!--
-**LucasFasolato/LucasFasolato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Software Engineer** specializing in building scalable, high-quality web applications. I am passionate about translating complex business needs into elegant technical solutions.
 
-Here are some ideas to get you started:
+My primary focus is on the full-stack ecosystem, with deep expertise in:
+* **Backend:** Node.js, NestJS, Python, Django, Express.js
+* **Frontend:** React.js, JavaScript, TypeScript
+* **Tools & Platforms:** Docker, Git, REST APIs, SQL/Oracle
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most of my professional work resides in private repositories, but I'm always open to exploring new technologies and challenges.
+
+📫 **How to reach me:**
+* **LinkedIn:** [linkedin.com/in/lucasfasolato](https://www.linkedin.com/in/lucasfasolato/)
