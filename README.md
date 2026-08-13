@@ -10,4 +10,5 @@ My primary focus is on the full-stack ecosystem, with deep expertise in:
 Most of my professional work resides in private repositories, but I'm always open to exploring new technologies and challenges.
 
 📫 **How to reach me:**
+* **Portfolio: ** [lucasfasolato.com](https://www.lucasfasolato.com/)
 * **LinkedIn:** [linkedin.com/in/lucasfasolato](https://www.linkedin.com/in/lucasfasolato/)
